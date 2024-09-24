@@ -47,6 +47,6 @@ const server = http.createServer((req, res) => {
     }
 });
 
-server.listen(3000, () => {
-    console.log('Server is running @ http://localhost:3000');
+server.listen(6700, () => {
+    console.log('Server is running @ http://localhost:6700');
 });
